@@ -9,9 +9,9 @@
   "author": "Miking",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "bootstrap": "^4.3.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-handlebars": "^3.1.0",
     "mdbootstrap": "^4.8.7",
     "nodemailer": "^6.3.0"
